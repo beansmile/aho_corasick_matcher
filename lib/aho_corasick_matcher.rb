@@ -1,4 +1,5 @@
 require 'thread'
+require 'aho_corasick_matcher_error'
 
 module AhoCorasick
   class AhoCorasickMatcher
